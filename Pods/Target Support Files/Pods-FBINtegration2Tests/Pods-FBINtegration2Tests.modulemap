@@ -1,0 +1,6 @@
+framework module Pods_FBINtegration2Tests {
+  umbrella header "Pods-FBINtegration2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
